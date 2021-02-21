@@ -4,5 +4,5 @@
 	branch = master
 [submodule "DaisySP"]
 	path = DaisySP
-	url = https://github.com/electro-smith/DaisySP
+	url = https://github.com/chrisfromwork/DaisySP
 	branch = master
